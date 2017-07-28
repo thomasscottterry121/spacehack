@@ -1,0 +1,13 @@
+C:\Users\Thomas\documents\visual studio 2017\Projects\Spacehack\Spacehack\bin\Debug\terminal8x8.png
+C:\Users\Thomas\documents\visual studio 2017\Projects\Spacehack\Spacehack\bin\Debug\Spacehack.exe.config
+C:\Users\Thomas\documents\visual studio 2017\Projects\Spacehack\Spacehack\bin\Debug\Spacehack.exe
+C:\Users\Thomas\documents\visual studio 2017\Projects\Spacehack\Spacehack\bin\Debug\Spacehack.pdb
+C:\Users\Thomas\documents\visual studio 2017\Projects\Spacehack\Spacehack\bin\Debug\OpenTK.dll
+C:\Users\Thomas\documents\visual studio 2017\Projects\Spacehack\Spacehack\bin\Debug\RLNET.dll
+C:\Users\Thomas\documents\visual studio 2017\Projects\Spacehack\Spacehack\bin\Debug\RogueSharp.dll
+C:\Users\Thomas\documents\visual studio 2017\Projects\Spacehack\Spacehack\bin\Debug\OpenTK.xml
+C:\Users\Thomas\documents\visual studio 2017\Projects\Spacehack\Spacehack\bin\Debug\OpenTK.dll.config
+C:\Users\Thomas\documents\visual studio 2017\Projects\Spacehack\Spacehack\bin\Debug\RogueSharp.xml
+C:\Users\Thomas\documents\visual studio 2017\Projects\Spacehack\Spacehack\obj\Debug\Spacehack.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\documents\visual studio 2017\Projects\Spacehack\Spacehack\obj\Debug\Spacehack.exe
+C:\Users\Thomas\documents\visual studio 2017\Projects\Spacehack\Spacehack\obj\Debug\Spacehack.pdb
